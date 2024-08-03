@@ -16,7 +16,7 @@
       "description": "Start your musical journey with foundational piano skills taught by expert.",
       "price": 199.99,
       "instructor": "Justin Bieber",
-      "isFeatured": true
+      "isFeatured": false
     },
     {
       "id": 3,
@@ -29,16 +29,16 @@
     },
     {
       "id": 4,
-      "title": "Piano for Beginners",
+      "title": "Course Four",
       "slug": "piano-for-beginners",
       "description": "Start your musical journey with foundational piano skills taught by expert.",
       "price": 199.99,
       "instructor": "Justin Bieber",
-      "isFeatured": true
+      "isFeatured": false
     },
     {
       "id": 5,
-      "title": "Piano for Beginners",
+      "title": "Course Five",
       "slug": "piano-for-beginners",
       "description": "Start your musical journey with foundational piano skills taught by expert.",
       "price": 199.99,
@@ -47,7 +47,7 @@
     },
     {
       "id": 6,
-      "title": "Piano for Beginners",
+      "title": "Course Six",
       "slug": "piano-for-beginners",
       "description": "Start your musical journey with foundational piano skills taught by expert.",
       "price": 199.99,
@@ -56,16 +56,16 @@
     },
     {
       "id": 7,
-      "title": "Piano for Beginners",
+      "title": "Course Seven",
       "slug": "piano-for-beginners",
       "description": "Start your musical journey with foundational piano skills taught by expert.",
       "price": 199.99,
       "instructor": "Justin Bieber",
-      "isFeatured": true
+      "isFeatured": false
     },
     {
       "id": 8,
-      "title": "Piano for Beginners",
+      "title": "Course Eight",
       "slug": "piano-for-beginners",
       "description": "Start your musical journey with foundational piano skills taught by expert.",
       "price": 199.99,
@@ -74,7 +74,7 @@
     },
     {
       "id": 9,
-      "title": "Piano for Beginners",
+      "title": "Course Nine",
       "slug": "piano-for-beginners",
       "description": "Start your musical journey with foundational piano skills taught by expert.",
       "price": 199.99,
@@ -83,12 +83,12 @@
     },
     {
       "id": 10,
-      "title": "Piano for Beginners",
+      "title": "Course Ten",
       "slug": "piano-for-beginners",
       "description": "Start your musical journey with foundational piano skills taught by expert.",
       "price": 199.99,
       "instructor": "Justin Bieber",
-      "isFeatured": true
+      "isFeatured": false
     }
   ]
 }
