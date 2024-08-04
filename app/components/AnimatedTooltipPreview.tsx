@@ -57,8 +57,9 @@ function AnimatedTooltipPreview() {
           Discover the talented professionals who will guide your musical
           journey.
         </p>
-        <div className="flex flex-row items-center justify-center mb-10 w-full"></div>
-        {/* <AnimatedTooltip items={people} /> */}
+        <div className="flex flex-row items-center justify-center mb-10 w-full">
+          <AnimatedTooltip items={people} />
+        </div>
       </WavyBackground>
     </div>
   );
