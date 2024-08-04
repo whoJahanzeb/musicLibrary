@@ -62,11 +62,9 @@ function UpcomingWebinars() {
           />
         </div>
         <div className="text-center mt-10">
-          <Link
-            href={"/"}
-            children="View All Webinars"
-            className="p-4 bg-zinc-900 rounded-full"
-          />
+          <Link href={"/"} className="p-4 bg-zinc-900 rounded-full">
+            View All Webinars
+          </Link>
         </div>
       </div>
     </div>
