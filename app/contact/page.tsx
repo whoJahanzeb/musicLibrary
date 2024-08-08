@@ -2,8 +2,8 @@
 import { Meteors } from "../components/ui/meteors";
 function Contact() {
   return (
-    <div className="min-h-screen bg-black py-12 pt-36">
-      <div className="space-y-8">
+    <div className="min-h-screen bg-black py-12 md:pt-36">
+      <div className="space-y-10 md:space-y-20 px-2">
         <h1 className="text-center text-3xl font-bold">Contact Us</h1>
         <p className="text-center max-w-lg mx-auto">
           Lorem ipsum dolor sit amet consectetur adipisicing elit. Totam aliquid

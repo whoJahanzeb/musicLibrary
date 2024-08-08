@@ -11,10 +11,10 @@ function About() {
     "Livewire",
   ];
   return (
-    <div className="min-h-screen bg-black py-12 pt-36">
-      <div className="max-w-5xl mx-auto space-y-20">
+    <div className="min-h-screen bg-black py-12 md:pt-36">
+      <div className="max-w-5xl mx-auto space-y-10 md:space-y-20 px-2">
         <h1 className="text-4xl">
-          We are providing services on
+          We are providing services on these
           <FlipWords words={words} className="text-5xl font-bold" /> <br />
         </h1>
         <div className="space-y-4">
